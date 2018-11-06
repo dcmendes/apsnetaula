@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\WebApplicationCS.dll.config
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\WebApplicationCS.dll
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\WebApplicationCS.pdb
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\ImageProcessor.dll
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\ImageProcessor.Web.dll
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\ImageProcessor.xml
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\ImageProcessor.Web.xml
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\obj\Debug\WebApplicationCS.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\obj\Debug\WebApplicationCS.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\obj\Debug\WebApplicationCS.dll
+C:\Users\Aluno\source\repos\WebApplicationCS\WebApplicationCS\obj\Debug\WebApplicationCS.pdb
